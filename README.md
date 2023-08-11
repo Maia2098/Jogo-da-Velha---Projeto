@@ -16,15 +16,17 @@ O Jogo da Velha é um clássico jogo de tabuleiro para dois jogadores, onde o ob
 
 - Um navegador web atualizado.
 
+## Hospedagem
+
+https://maia2098.github.io/Jogo-da-Velha---Projeto/src/
+
 ## Como Jogar
 
-1. Clone ou baixe este repositório em sua máquina.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Você verá um tabuleiro 3x3 na tela, representando as células do jogo.
-4. Clique em uma célula vazia para fazer sua jogada.
-5. O jogo irá alternar entre os jogadores (X ou O) automaticamente.
-6. Continue jogando até que haja um vencedor ou o jogo termine em empate.
-7. Para reiniciar o jogo, clique no botão "reiniciar.
+1. Você verá um tabuleiro 3x3 na tela, representando as células do jogo.
+2. Clique em uma célula vazia para fazer sua jogada.
+3. O jogo irá alternar entre os jogadores (X ou O) automaticamente.
+4. Continue jogando até que haja um vencedor ou o jogo termine em empate.
+5. Para reiniciar o jogo, clique no botão "reiniciar.
 
 ## Personalizações
 
